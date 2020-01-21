@@ -1,0 +1,9 @@
+{
+  "name": "pizza-catch",
+  "version": "0.0.0",
+  "description": "PizzaCatch",
+  "main": "app.js",
+  "author": {
+    "name": "Jack"
+  }
+}
